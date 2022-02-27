@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2022-02-21 21:16:09
+ * @LastEditTime: 2022-02-21 21:21:24
+ * @LastEditors: Please set LastEditors
+ * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ * @FilePath: /novel/README.md
+-->
 # 小说
 
 #### 介绍
@@ -6,18 +14,11 @@ Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN�
 无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
 
 #### 软件架构
-软件架构说明
+这个就只是一个用来存放小说的仓库，因为linux下的写作软件都没有云端存储功能，所以出此下策。
 
+#### 小说列表
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
+1.  《人间数万年》
 2.  xxxx
 3.  xxxx
 
